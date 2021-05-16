@@ -2,10 +2,7 @@
 
 <!--
 **Eduardo-Avelar/Eduardo-Avelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-
 -->
 - 🔭 I’m currently working on Embedded devices with ESP32, STM32 and Embedded Linux.
 - 👀 I’m interested in Electronic, telecommunications, Microcontrollers, Embedded Linux, and Programing in general.
